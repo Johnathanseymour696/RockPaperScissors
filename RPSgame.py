@@ -89,4 +89,4 @@ while True:
     		print("Scissors beat paper")
     		playerScore +=1
     else: #print type something else
-    	pass
+        print("This is not an option.")
